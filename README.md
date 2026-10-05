@@ -4,3 +4,4 @@
 |---|---|---|---|
 | Resource Group | `covid-reporting-rg` | UAE North | Active |
 | Azure Data Factory | `covid-reporting-adf-abdo` | UAE North | Deployed |
+| Azure Storage Account | `covidreportingsa67` | UAE North | Deployed |

@@ -128,22 +128,6 @@ This makes it easier to:
 
 ---
 
-## Security Considerations
-
-The repository must never contain:
-
-- Azure Subscription IDs
-- Storage account keys
-- SAS tokens
-- SQL passwords
-- Service Principal secrets
-- Access tokens
-- Sensitive connection strings
-
-Secrets will be handled using appropriate Azure security mechanisms
-later in the project.
-
----
 
 ## Screenshot
 
