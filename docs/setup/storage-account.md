@@ -31,3 +31,11 @@ Azure Blob Storage
 Azure Data Factory
      ↓
 Data Processing / Data Lake
+```
+
+
+## Screenshot
+
+Azure Storage Account resource overview:
+
+![Azure Data Lake Storage Gen2 Overview](../../assets/screenshots/storage-account-overview.png)
