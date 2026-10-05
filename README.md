@@ -6,3 +6,5 @@
 | Azure Data Factory | `covid-reporting-adf-abdo` | UAE North | Deployed |
 | Azure Storage Account | `covidreportingsa67` | UAE North | Deployed |
 | Azure Data Lake Storage Gen2 | `covidreportingdl67` | UAE North | Deployed |
+| Azure SQL Server | `covid-srv67` | UAE North | Deployed |
+| Azure SQL Database | `covid-db` | UAE North | Deployed |

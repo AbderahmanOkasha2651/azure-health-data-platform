@@ -11,3 +11,4 @@ All notable changes to this project will be documented in this file.
 - Added Azure Data Factory environment documentation.
 - Added Azure Blob Storage account for project source files.
 - Added Azure Data Lake Storage Gen2 as the project's main data lake.
+- Added Azure SQL Database as the relational serving layer for reporting data.

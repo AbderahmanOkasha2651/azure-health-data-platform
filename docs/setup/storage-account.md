@@ -38,4 +38,4 @@ Data Processing / Data Lake
 
 Azure Storage Account resource overview:
 
-![Azure Data Lake Storage Gen2 Overview](../../assets/screenshots/storage-account-overview.png)
+![Azure Storage Account](../../assets/screenshots/storage-account-overview.png)
