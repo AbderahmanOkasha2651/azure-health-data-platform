@@ -23,3 +23,7 @@ workflows.
 ### Data Ingestion
 
 - [Population Data Ingestion Preparation](docs/setup/blob-ingestion-preparation.md)
+
+### Project Standards
+
+- [ADF Naming Conventions](docs/naming-conventions.md)
