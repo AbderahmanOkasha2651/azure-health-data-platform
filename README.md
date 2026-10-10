@@ -8,3 +8,5 @@
 | Azure Data Lake Storage Gen2 | `covidreportingdl67` | UAE North | Deployed |
 | Azure SQL Server | `covid-srv67` | UAE North | Deployed |
 | Azure SQL Database | `covid-db` | UAE North | Deployed |
+
+- [Population Data Ingestion Preparation](docs/setup/blob-ingestion-preparation.md)
