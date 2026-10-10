@@ -82,8 +82,8 @@ The destination path and decompression are planned requirements, not completed o
 
 **Source container and uploaded file**
 
-![Source Population Container](assets/screenshots/population-source-container.png)
+![Source Population Container](../../assets/screenshots/population-source-container.png)
 
 **Destination raw container**
 
-![ADLS Raw Container](assets/screenshots/adls-raw-container.png)
+![ADLS Raw Container](../../assets/screenshots/adls-raw-container.png)
